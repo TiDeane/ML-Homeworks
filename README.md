@@ -5,6 +5,6 @@ Each homework is divided into two sections, **Pen-and-Paper** and **Programming 
 ## Homework Topics
 
 - **HW1**: Decision Trees and Evaluation
-- **HW2**: Bayesian and Lazy Learning v1
+- **HW2**: Bayesian and Lazy Learning
 - **HW3**: Neural Networks and Regression
-- **HW4**: Clustering and PCA v2 (new version 21/10/2023)
+- **HW4**: Clustering and PCA
